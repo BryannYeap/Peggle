@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19574" systemVersion="21A559" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Peg" representedClassName="Peg" syncable="YES" codeGenerationType="class"/>
+    <entity name="SavedLevel" representedClassName="SavedLevel" syncable="YES" codeGenerationType="class">
+        <attribute name="bluePegs" optional="YES" attributeType="Transformable"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="orangePegs" optional="YES" attributeType="Transformable"/>
+        <relationship name="pegs" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Peg"/>
+    </entity>
+    <elements>
+        <element name="Peg" positionX="-54" positionY="-9" width="128" height="29"/>
+        <element name="SavedLevel" positionX="-63" positionY="-18" width="128" height="103"/>
+    </elements>
+</model>
