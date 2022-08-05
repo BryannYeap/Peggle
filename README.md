@@ -70,6 +70,23 @@ The multiplier is applied on each hit of an obstacle, based on the number of rem
 
 (1 x 10 + 1 x 100 + 2 x 10) x 3 = 390
 
+### Screens
+
+#### Home Screen
+![images](images/Homescreen.png)
+
+#### Level Designer Screen
+![images](images/LevelDesigner.png)
+
+#### Load Levels Screen
+![images](images/LoadLevels.png)
+
+#### Example of a Saved Level
+![images](images/SavedLevel.png)
+
+#### In Game Screen
+![images](images/InGame.png)
+
 ## Dev Guide
 
 ### High Level Architecture
