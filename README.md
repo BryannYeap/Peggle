@@ -73,19 +73,19 @@ The multiplier is applied on each hit of an obstacle, based on the number of rem
 ### Screens
 
 #### Home Screen
-<img src="images/Homescreen.png" width="200">
+<img src="images/Homescreen.png" width="400">
 
 #### Level Designer Screen
-![images](images/LevelDesigner.png)
+<img src="images/LevelDesigner.png" width="400">
 
 #### Load Levels Screen
-![images](images/LoadLevels.png)
+<img src="images/LoadLevels.png" width="400">
 
 #### Example of a Saved Level
-![images](images/SavedLevel.png)
+<img src="images/SavedLevel.png" width="400">
 
 #### In Game Screen
-![images](images/InGame.png)
+<img src="images/InGame.png" width="400">
 
 ## Dev Guide
 
