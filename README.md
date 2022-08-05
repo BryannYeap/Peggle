@@ -73,7 +73,7 @@ The multiplier is applied on each hit of an obstacle, based on the number of rem
 ### Screens
 
 #### Home Screen
-![images](images/Homescreen.png)
+<img src="images/Homescreen.png" width="200">
 
 #### Level Designer Screen
 ![images](images/LevelDesigner.png)
